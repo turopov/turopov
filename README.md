@@ -2,4 +2,6 @@
 
 ### I'm a _junior_ developer.
 #### I’m currently working on an Android App. 
-[Telegram]("https://t.me/turopovv")
+
+[Telegram][Тег1]
+[Тег1][https://t.me/samandar_turopov]
