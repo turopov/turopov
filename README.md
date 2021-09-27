@@ -2,4 +2,4 @@
 
 ### I'm a _junior_ developer.
 #### I’m currently working on an Android App. 
-##### [Telegram]("t.me/turopovv") | 24/7
+##### [Telegram]("t.me/turopovv") | **I answer always and quickly.**
