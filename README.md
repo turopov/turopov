@@ -20,8 +20,8 @@ There will be open-source codes of interesting and well-built applications.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
 <h2>⚡️ A Few Quick Facts</h2>
-<ul>
 <ul>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/turopov">Github</a>.</li>
