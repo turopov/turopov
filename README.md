@@ -30,7 +30,7 @@ There will be open-source codes of interesting and well-built applications.
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/turopov">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://t.me/teencoder">my blog</a>.</li>
 <li>📙 Check out my <a href="">resume</a>.</li>
-<li>🎉 Fun Fact: "Так же я могу говорить на русском | Men o'zbek tilida ham gaplasha olaman"</li>
+<li>🎉 Fun Fact: " **Так же я могу говорить на русском** | **Men o'zbek tilida ham gaplasha olaman** "</li>
 </ul>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=turopov&show_icons=true&theme=gotham" alt="turopov" />
