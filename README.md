@@ -9,6 +9,8 @@ There will be open-source codes of interesting and well-built applications.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=turopov&show_icons=true&theme=gotham" alt="turopov" />
+  
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -19,4 +21,3 @@ There will be open-source codes of interesting and well-built applications.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=turopov&show_icons=true&theme=gotham" alt="turopov" />
