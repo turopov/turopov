@@ -22,7 +22,7 @@ There will be open-source codes of interesting and well-built applications.
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>
+<ul>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/turopov">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://t.me/teencoder">my blog</a>.</li>
